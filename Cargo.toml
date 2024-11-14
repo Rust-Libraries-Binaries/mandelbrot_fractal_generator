@@ -1,10 +1,10 @@
 [package]
 name = "mandelbrot_fractal_generator"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["Ben Santora <bensatlantik@gmail.com>"]
 edition = "2021"
 description = "A Rust project to generate and visualize the Mandelbrot fractal." 
-repository = "https://github.com/bensatlantik/Rust_Binaries"
+repository = "https://github.com/bensatlantik/Rust-Libraries-Binaries"
 license = "MIT"
 
 # Specify the binary target
